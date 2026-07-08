@@ -1,5 +1,7 @@
 # HikVision Data Recovery
 
+Original Credit - https://github.com/dw2102
+
 Script to recover / get video files from NVR hard drive which uses the HikVision filesystem. 
 
 Based on the paper from Jaehyeok Han, Doowon Jeong and Sangjin Lee (Korean University)
